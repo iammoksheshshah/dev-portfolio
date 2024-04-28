@@ -30,4 +30,4 @@ Hello and welcome! I'm Mokshesh Shah, a passionate web developer dedicated to cr
 
 <br>
 
-[![N|Solid](images/instagram.svg)](https://www.instagram.com/mkshxxh_)
+[![N|Solid](./assets/images/instagram.svg)](https://www.instagram.com/mkshxxh_)
