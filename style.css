@@ -59,7 +59,7 @@
 
 
 .grey{
-  max-width: 45%;
+  max-width: 80%;
   margin: 5px;
   text-align: start;
   width: auto;
@@ -110,6 +110,7 @@
   background-color: #1d282f;
   display: flex;
   width: 100%;
+  padding: 10px 0;
 }
 .downloadSpace .pdfname{
   display: flex;
@@ -210,6 +211,18 @@
   #call:hover .number{
     display: block;
     height: auto;
+  }
+}
+
+@media(min-width:768px){
+  .grey{
+    max-width: 45%;
+    margin: 5px;
+    text-align: start;
+    width: auto;
+    padding: 10px;
+    background-color: #202c33;
+    border-radius: 0px 15px 15px;
   }
 }
 
